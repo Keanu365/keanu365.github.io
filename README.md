@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Keanu365!
-You can go visit my main account [here](github.com/Keanu365)!
+You can go visit my main account [here](https://github.com/Keanu365)!
 
 <img src="Keanu.jpg" alt="Profile Picture" width="400" height="auto">
 
@@ -30,6 +30,7 @@ You can go visit my main account [here](github.com/Keanu365)!
 ### 🌐 Some of my other socials:
 * [▶️ YouTube](https://www.youtube.com/@TheCoconutMan10)
 * [📸 Instagram](https://www.instagram.com/thecocoman2010/) (I barely use this though)
+* [🐦 X/Twitter](https://x.com/KeanuMin2010) (I also barely use this)
 * [📧 Email](mgkeanu@gmail.com) (You can contact me through email!)
 * [😺 Scratch](https://scratch.mit.edu/users/SmartKeanu/) (If you feel like laughing at younger me)
 * [🫃 Reddit](https://www.reddit.com/user/AnonymousSeally/) (I... honestly don't know why you'd even need my Reddit but here you go)
