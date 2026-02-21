@@ -1,9 +1,9 @@
 # 👋 Hey there! I'm Keanu365!
 You can go visit my main account [here](github.com/Keanu365)!
 
-![Profile Picture](Keanu.jpg)
+<img src="Keanu.jpg" alt="Profile Picture" width="400" height="auto">
 
-**Other names I go by:**
+### Other names I go by:
 * Thet Paing Min (my real name)
 * TheCoconutMan (a name you'll commonly find on my other socials)
 * Keanu Min (my "nickname")
