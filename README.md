@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Keanu365!
 You can go visit my main account [here](github.com/Keanu365)!
 
-![Profile Picture](keanu.jpg)
+![Profile Picture](Keanu.jpg)
 
 **Other names I go by:**
 * Thet Paing Min (my real name)
